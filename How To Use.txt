@@ -1,0 +1,5 @@
+(i) Run npm install on command Prompt inorder to install all the dependecies
+(ii)npm start
+
+
+Now Just Type Something In the search Box.

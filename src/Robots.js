@@ -1,0 +1,62 @@
+export const Robots=[
+{
+	id:0,
+	name:'Leanne',
+	username:'Bret',
+	email:'Sincere@april.biz'
+},
+{
+	id:1,
+	name:'Abc',
+	username:'Auti',
+	email:'Shanny@april.biz'
+},
+{
+	id:2,
+	name:'Lisa',
+	username:'Li',
+	email:'Lisa@april.biz'
+},
+{
+	id:3,
+	name:'Leanne',
+	username:'Bret',
+	email:'Sincere@april.biz'
+},
+{
+	id:4,
+	name:'Abc',
+	username:'Auti',
+	email:'Shanny@april.biz'
+},
+{
+	id:5,
+	name:'Lisa',
+	username:'Li',
+	email:'Lisa@april.biz'
+},
+{
+	id:6,
+	name:'lisa',
+	username:'Li',
+	email:'Lisa@april.biz'
+},
+{
+	id:7,
+	name:'Leanne',
+	username:'Bret',
+	email:'Sincere@april.biz'
+},
+{
+	id:8,
+	name:'Abc',
+	username:'Auti',
+	email:'Shanny@april.biz'
+},
+{
+	id:9,
+	name:'Lisa',
+	username:'Li',
+	email:'Lisa@april.biz'
+}
+]
